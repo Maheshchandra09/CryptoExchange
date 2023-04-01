@@ -26,3 +26,7 @@ Run flutter application on android studio
 
 # Examples of the application
 ![Homescreen](./images/Home.jpeg)
+![Homescreen](./images/CryptoPrices.jpeg)
+
+![Homescreen](./images/ERC tokens.jpeg)
+![Homescreen](./images/Exchange tokens.jpeg)
