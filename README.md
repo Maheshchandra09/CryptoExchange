@@ -28,5 +28,5 @@ Run flutter application on android studio
 ![Homescreen](./images/Home.jpeg)
 ![Homescreen](./images/CryptoPrices.jpeg)
 
-![Homescreen](./images/tokens.jpeg)
+![Homescreen](./images/tkens.jpeg)
 ![Homescreen](./images/exchange.jpeg)
