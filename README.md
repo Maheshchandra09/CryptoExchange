@@ -12,7 +12,7 @@ These are aproved of allowance and are exchanged using the swapContract.
 The real time prices are provided using the ChainLink api smart contracts.
 
 # Running the code
-Clone this repo
+Clone this repo\n
 Enter your private key in swap.dart file
 Change token/contract addresses according to your need
 Run flutter application on android studio
