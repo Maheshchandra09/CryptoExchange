@@ -23,7 +23,7 @@ class _swaptokens extends State<Swaptokens>{
     httpClient=Client();
     ethClient=Web3Client(api, httpClient);
     myaddress=EthereumAddress.fromHex(widget.address);
-     privAddress="9ccaca35a792d3600560bbd88cfd1d1d39368827debbc47042688e0c9542f858";
+     privAddress="";
      temp=EthPrivateKey.fromHex(privAddress);
     credentials=temp.address;
     super.initState();
